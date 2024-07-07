@@ -12,11 +12,10 @@ import (
 	"strings"
 	"time"
 
-	_ "github.com/denisenkom/go-mssqldb"
+	model "archistorage.unix/internal/archistorage/models"
+	utils "archistorage.unix/internal/archistorage/utils"
 	"github.com/google/uuid"
 	"github.com/gorilla/mux"
-	model "gitlab.archimed-soft.ru/web/archistorage/internal/archistorage/models"
-	"gitlab.archimed-soft.ru/web/archistorage/internal/archistorage/utils"
 )
 
 const deltaTimeSec = 30

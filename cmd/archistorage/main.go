@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"gitlab.archimed-soft.ru/web/archistorage/internal/archistorage/api"
-	model "gitlab.archimed-soft.ru/web/archistorage/internal/archistorage/models"
+	"archistorage.unix/internal/archistorage/api"
+	model "archistorage.unix/internal/archistorage/models"
 )
 
 const (

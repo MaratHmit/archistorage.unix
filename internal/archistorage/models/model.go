@@ -1,9 +1,10 @@
 package model
 
 import (
-	"gopkg.in/ini.v1"
 	"os"
 	"strings"
+
+	"gopkg.in/ini.v1"
 )
 
 const (
