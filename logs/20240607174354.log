@@ -1,0 +1,4 @@
+INFO	2024/07/06 17:43:54 Запуск ArchiStorage (файловое хранилище)
+INFO	2024/07/06 17:43:54 Запуск сервиса ArchiStorage!
+INFO	2024/07/06 17:43:54 Чтение файла конфигурации... d:\Projects\GO\src\gitlab.archimed-soft.ru\web\archistorage\config.ini
+INFO	2024/07/06 17:43:54 Файл конфигурации успешно прочитан!
